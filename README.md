@@ -2,7 +2,13 @@
 
 This repository contains the final project for the course *Quantification of Uncertainties in Physical Systems*, June 2025.
 
+<p align="center">
+  <img src="Animations/pendulo_animacao.gif" alt="Oscillating Pendulum" width="100%">
+</p>
+
 The goal is to quantify the uncertainty propagation from an uncertain pendulum length to the dynamic response of the system.
+
+---
 
 ## 📌 Description
 
@@ -22,6 +28,8 @@ The physical system consists of a damped simple pendulum with uncertain length \
 * Propagation of uncertainty
 * Kernel density estimation
 * Visualization of confidence bands
+
+---
 
 ## 📚 Acknowledgements
 
