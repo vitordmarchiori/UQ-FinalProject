@@ -18,7 +18,7 @@ A simple damped pendulum is analyzed, considering uncertainty in its length *L*,
 
 ## 📊 Topics Covered
 
-[x] Analytical modeling of a damped pendulum
+* Analytical modeling of a damped pendulum
 * Small-angle approximation and linearization
 * Uncertainty modeling using Gamma distributions
 * Monte Carlo simulation (MC)
@@ -44,7 +44,9 @@ A simple damped pendulum is analyzed, considering uncertainty in its length *L*,
 This project was developed as the final assignment for the short course:
 
 > **Quantification of Uncertainties in Physical Systems**
+
 > Prof. Dr. Americo Barbosa da Cunha Junior
+
 > Institution: São Paulo State University (UNESP), School of Engineering, Ilha Solteira
 
 ---
