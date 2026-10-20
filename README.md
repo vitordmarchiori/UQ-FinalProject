@@ -37,7 +37,7 @@ A simple damped pendulum is analyzed, considering uncertainty in its length *L*,
   * ODE Suite
   * MATLAB Base
 
----
+--- 
 
 ## 📚 Acknowledgements
 
